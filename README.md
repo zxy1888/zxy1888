@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm 【ZXY1888】
+> MTI翻译硕士 | 擅长双语语料处理、文档自动化、翻译辅助脚本开发
 
-<!--
-**zxy1888/zxy1888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 技能
+- Python：文本清洗、双语句子对齐、术语提取、Excel文档批量处理
+- Markdown，双语对照文档制作，语料库整理
 
-Here are some ideas to get you started:
+## 作品集项目
+1. [双语文本句句对齐工具](https://github.com/【你的用户名】/bilingual-align-tool) — 中英文本自动对齐，输出句句对照Excel，适合翻译实践、语料库研究
+2. [术语提取小工具](https://github.com/【你的用户名】/term-extract) — 从双语材料批量提取专业术语
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 业务承接
+承接定制：文本处理脚本、双语文档格式转换、翻译辅助小工具开发
